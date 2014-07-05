@@ -1,5 +1,5 @@
 <rules>
   <rule>
-    <match lemma="ntu" tags="n.*/><select lemma="ntfu" tags="n.*/></match>
+    <match lemma="ntu" tags="n.*"><select lemma="ntfu" tags="n.*"/></match>
   </rule>
 </rules>
