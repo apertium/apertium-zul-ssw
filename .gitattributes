@@ -1,5 +1,7 @@
 * text=auto !eol
 /Makefile -text
+/apertium-zul-ssw.ssw-zul.lrx -text
 /apertium-zul-ssw.ssw-zul.t1x -text
 /apertium-zul-ssw.zul-ssw.dix -text
+/apertium-zul-ssw.zul-ssw.lrx -text
 /apertium-zul-ssw.zul-ssw.t1x -text
